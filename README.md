@@ -34,6 +34,16 @@ This is a Flask application that visualizes the distribution of message categori
     pip install -r requirements.txt
     ```
 
+4. Set up the Conda environment using the `environment.yml` file:
+    ```
+    conda env create -f environment.yml
+    ```
+
+5. Activate the Conda environment:
+    ```
+    conda activate myenv
+    ```
+
 ## Features
 
 - **Message Classification**: The application uses a machine learning model to classify messages into different categories.
