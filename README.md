@@ -1,5 +1,6 @@
 # Disaster Response Pipeline Project
-
+![alt text](image.png)
+![alt text](image-1.png)
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
